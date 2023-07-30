@@ -24,6 +24,7 @@ const Fruits = () => {
         <li>Lichi</li>
         <li>Guava</li>
       </ul>
+        <TypesOfFruit/>
       { /* Change code above this line */ }
     </div>
   );
@@ -41,7 +42,7 @@ const App = () => {
         <li>Pasta</li>
       </ul>
        <Fruits/>
-        <TypesOfFruit/>
+      
       { /* Change code above this line */ }
     </div>
   )
