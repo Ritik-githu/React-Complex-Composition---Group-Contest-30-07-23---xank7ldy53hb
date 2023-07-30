@@ -19,10 +19,10 @@ const Fruits = () => {
     <div id="fruits">
       { /* Change code below this line */ }
       <ul>
-        <li>Apples</li>
-        <li>Blueberries</li>
-        <li>Strawberries</li>
-        <li>Bananas</li>
+        <li>Orange</li>
+        <li>Papaya</li>
+        <li>Lichi</li>
+        <li>Guava</li>
       </ul>
       { /* Change code above this line */ }
     </div>
