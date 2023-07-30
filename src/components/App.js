@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/App.css';
-const TypesOfFruit = () => {
+const TypesOfFruits  = () => {
   return (
     <div id="typesOfFruits">
       <h2>Fruits:</h2>
@@ -24,7 +24,7 @@ const Fruits = () => {
         <li>Lichi</li>
         <li>Guava</li>
       </ul>
-        <TypesOfFruit/>
+        <TypesOfFruits />
       { /* Change code above this line */ }
     </div>
   );
