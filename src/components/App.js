@@ -40,6 +40,8 @@ const App = () => {
         <li>Choewmin</li>
         <li>Pasta</li>
       </ul>
+       <Fruits/>
+        <TypesOfFruit/>
       { /* Change code above this line */ }
     </div>
   )
